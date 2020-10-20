@@ -13,20 +13,20 @@
   <p align="center">
   <b></b>
     <br>
-    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc2.png"/>
-    <br>
-  </p>
-# TechStack
+    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc2.png" width="300" heigth="300"/>
+    
+</p>
+## TechStack
   * Python
   * PILLOW
   * opencv
   * numpy 
   * keras
-# How do I contribute?
+## How do I contribute?
   Check out the contributing guidelines to learn more!
   
-# Is this beginner friendly?
+## Is this beginner friendly?
   YES!
-# What if I have a problem?
+## What if I have a problem?
   Contact any of the ACM Team members!
   **This is one of the official repositories created by ACM PESU-ECC for hacktoberfest 2020!** 
