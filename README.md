@@ -1,10 +1,20 @@
 # VideoCapture
   The code VideoCapture.py is used to access webcam to implement American sign language detection(No worries the issue isn't related to ASL).
   VideoCapture.py captures every third frame, presently when the code is executed,the feed screen is
+  <p align="center">
+   
+    <br>
+    <img src="Assets/vc1.png" />
+  </p>
 
   
   We expect you to implement a green bounding box(region where the actual sign is captured) as shown 
   below in the picture
+  <p align="center">
+
+    <br>
+    <img src="Assets/vc2.png" />
+</p>
 # TechStack
   * Python
   * PILLOW
