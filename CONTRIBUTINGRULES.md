@@ -1,7 +1,7 @@
 **Contributing to VideoCapture**
 
 Hello and welcome! We are so glad that you are interesting in contributing to VideoCapture!
-We only have a couple of rules and we hope you enjoy the process :)<br/>
+We only have a couple of rules and we hope you enjoy the process :)<br/><br/>
 **Contributing Rules**
 
    1).Put all python code in VideoCapture.py file only.<br/>
