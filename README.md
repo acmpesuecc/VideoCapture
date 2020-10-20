@@ -14,7 +14,8 @@
   <b></b>
     <br>
     <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc2.png"/>
-</p>
+    <br>
+  </p>
 # TechStack
   * Python
   * PILLOW
