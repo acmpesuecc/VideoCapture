@@ -11,7 +11,7 @@
   We expect you to implement a green bounding box(region where the actual sign is captured) as shown 
   below in the picture
   <p align="center">
-
+  <b></b>
     <br>
     <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc2.png/">
 </p>
