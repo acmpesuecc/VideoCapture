@@ -24,7 +24,7 @@
   </p>
 
 ## How do I contribute?
-  Check out the contributing guidelines to learn more!
+  Check out the [contributing guidelines](https://github.com/jeff10joy/VideoCapture/blob/main/CONTRIBUTINGRULES.md) to learn more!
   
 ## Is this beginner friendly?
   YES!
