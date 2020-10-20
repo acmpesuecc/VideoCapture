@@ -12,13 +12,11 @@ from keras.preprocessing.image import ImageDataGenerator
 
 num_frames=0
 cap=cv2.VideoCapture(0)
-width  = cap.get(3) 
-height = cap.get(4)
+
 
 data = ImageDataGenerator(samplewise_center=True, samplewise_std_normalization=True)
 
-top_left = (int(0.05*width), int(0.2*height))
-bottom_right = (int(0.35*width), int(0.55*height))
+
 
 
 
