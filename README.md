@@ -13,7 +13,7 @@
   <p align="center">
 
     <br>
-    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc2.png" />
+    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc2.png/">
 </p>
 # TechStack
   * Python
