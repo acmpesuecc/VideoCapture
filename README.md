@@ -1,10 +1,16 @@
+# TechStack
+  * Python
+  * PILLOW
+  * opencv
+  * numpy 
+  * keras
 # VideoCapture
   The code VideoCapture.py is used to access webcam to implement American sign language detection(No worries the issue isn't related to ASL).
   VideoCapture.py captures every third frame, presently when the code is executed,the feed screen is
   <p align="center">
   <b></b>
     <br>
-    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc1.png"/>
+    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc1.png" width="500" height="300"/>
   </p>
 
   
@@ -13,15 +19,10 @@
   <p align="center">
   <b></b>
     <br>
-    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc2.png" width="300" heigth="300"/>
+    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc2.png" width="500" height="300"/>
     
-</p>
-## TechStack
-  * Python
-  * PILLOW
-  * opencv
-  * numpy 
-  * keras
+  </p>
+
 ## How do I contribute?
   Check out the contributing guidelines to learn more!
   
