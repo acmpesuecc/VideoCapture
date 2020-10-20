@@ -2,9 +2,9 @@
   The code VideoCapture.py is used to access webcam to implement American sign language detection(No worries the issue isn't related to ASL).
   VideoCapture.py captures every third frame, presently when the code is executed,the feed screen is
   <p align="center">
-   
+  <b></b>
     <br>
-    <img src="Assets/vc1.png" />
+    <img src="https://github.com/jeff10joy/VideoCapture/blob/main/Assets/vc1.png/">
   </p>
 
   
