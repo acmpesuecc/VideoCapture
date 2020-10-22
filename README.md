@@ -3,7 +3,7 @@
   * PILLOW
   * opencv
   * numpy 
-  * keras
+  * keras<br/>
   **Make sure all the above packages are installed before working on the issue**
 # VideoCapture
   The code VideoCapture.py is used to access webcam to implement American sign language detection(No worries the issue isn't related to ASL).
