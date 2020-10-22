@@ -5,7 +5,7 @@ We only have a couple of rules and we hope you enjoy the process :)<br/><br/>
 **Contributing Rules**
 
    1).Put all python code in VideoCapture.py file only.<br/>
-   2).Make sure all the necessary packages are installed mentioned in the requirements.txt<br/>
+   2).Make sure all the necessary packages are installed mentioned in the techstack(readme)<br/>
    3).Don't move or delete any files. Only modify them.<br/>
 
 **Contributing Process**<br/>
