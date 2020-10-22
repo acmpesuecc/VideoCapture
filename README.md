@@ -25,10 +25,10 @@
   </p>
 
 ## How do I contribute?
-  Check out the [contributing guidelines](https://github.com/jeff10joy/VideoCapture/blob/main/CONTRIBUTINGRULES.md) to learn more!
+  Check out the [contributing guidelines](https://github.com/acmpesuecc/VideoCapture/blob/main/CONTRIBUTING.md) to learn more!
   
 ## Is this beginner friendly?
   YES!
 ## What if I have a problem?
-  Contact any of the ACM Team members!
+  Contact maintainers **Joy Jefferson:joy.jefferson10@gmail.com** | **Pradish Kapur:pradish.k1812@gmail.com** for any further queries.<br/>
   **This is one of the official repositories created by ACM PESU-ECC for hacktoberfest 2020!** 
