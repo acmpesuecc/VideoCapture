@@ -30,5 +30,5 @@
 ## Is this beginner friendly?
   YES!
 ## What if I have a problem?
-  Contact maintainers **Joy Jefferson:joy.jefferson10@gmail.com** | **Pradish Kapur:pradish.k1812@gmail.com** for any further queries.<br/>
+  Contact maintainers for any further queries on the discord server.<br/>
   **This is one of the official repositories created by ACM PESU-ECC for hacktoberfest 2020!** 
