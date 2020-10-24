@@ -51,8 +51,7 @@ while(True):
         #cv2.waitKey(125)
         prev=int(time.time())
 
-    if k == 27:
-        break
+   
 cap.release()
 cv2.destroyAllWindows()
 
