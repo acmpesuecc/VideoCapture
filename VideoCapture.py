@@ -1,7 +1,7 @@
 
 
 import numpy as np
-import cv2
+from cv2 import cv2
 import time
 
 from PIL import Image
@@ -28,7 +28,14 @@ while(True):
 
     ret,frame=cap.read()
 
+    top_left = (32,96)               #width of frame : 640   hieght : 480
+    bottom_right = (224,264)
+    color = (0,255,0)
+    thickness = 2
     
+
+    cv2.rectangle(frame, top_left, bottom_right,color,thickness)
+
     cv2.imshow("from Video Feed",frame)
     k=cv2.waitKey(1)
 
