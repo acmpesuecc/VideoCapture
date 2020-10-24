@@ -37,7 +37,7 @@ while(True):
     cv2.rectangle(frame, top_left, bottom_right,color,thickness)
 
     cv2.imshow("from Video Feed",frame)
-    k=cv2.waitKey(1)
+    k=cv2.waitKey(1) & 0xFF
 
     if(int(time.time()) == (prev + 2)):
         #ret,frame=cap.read()
