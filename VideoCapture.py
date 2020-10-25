@@ -15,8 +15,7 @@ cap=cv2.VideoCapture(0)
 
 
 data = ImageDataGenerator(samplewise_center=True, samplewise_std_normalization=True)
-
-
+cv2.resizeWindow(cap, 640,480)
 
 
 
@@ -26,7 +25,7 @@ k=0
 
 while(True):
 
-    ret,frame=cap.read()
+    ret,frame=cap.read()              #width is 640 and height is 480
     top_left = (32,96)              
     bottom_right = (224,264)
     color = (0,255,0)
