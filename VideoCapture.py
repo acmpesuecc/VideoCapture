@@ -1,7 +1,5 @@
-
-
 import numpy as np
-import cv2
+from cv2 import cv2
 import time
 
 from PIL import Image
@@ -15,11 +13,6 @@ cap=cv2.VideoCapture(0)
 
 
 data = ImageDataGenerator(samplewise_center=True, samplewise_std_normalization=True)
-
-
-
-
-
 
 prev = int(time.time())
 k=0
@@ -50,6 +43,8 @@ while(True):
         #print(np.argmax(model.predict(roi)))
         #cv2.waitKey(125)
         prev=int(time.time())
+    if k == ord('q'):
+        break
 
    
 cap.release()
