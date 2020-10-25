@@ -20,7 +20,13 @@ k=0
 while(True):
 
     ret,frame=cap.read()
-
+    
+    left = (32,96)
+    right = (224,264)
+    color = (0,255,0)
+    thickness = 2
+    
+    cv2.rectangle(frame, left, right,color,thickness)
     
     cv2.imshow("from Video Feed",frame)
     k=cv2.waitKey(1)
