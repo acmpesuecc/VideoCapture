@@ -54,8 +54,7 @@ while(True):
         #print(np.argmax(model.predict(roi)))
         #cv2.waitKey(125)
         prev=int(time.time())
-        if k == ord('q'):        #returns the Unicode code point of q
-         break
+        
 
    
 cap.release()
